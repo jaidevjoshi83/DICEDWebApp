@@ -1,8 +1,8 @@
-# DataBaseApp Installation instruction. 
+# DICEDWebApp Installation instruction. 
 
 **1. Clone the repo** 
 
-     git clone https://github.com/jaidevjoshi83/DataBaseApp.git
+     git clone https://github.com/jaidevjoshi83/DICEDWebApp.git
   
  **2. Create a conda environment** 
  
@@ -14,7 +14,7 @@
   
  **4. Run/Activate the project**
  
-     python /DataBaseApp/PeptideDB/manage.py runserver 127.0.0.1:8080
+     python /DICEDWebApp/PeptideDB/manage.py runserver 127.0.0.1:8080
 
  **5. Copy this URL to the browser**
  
